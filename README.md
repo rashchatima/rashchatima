@@ -7,7 +7,7 @@ I like understanding how systems work inside — and how to make them reliable a
 - 🛠️ Currently learning: C# / .NET, Python, TypeScript, design patterns, information security fundamentals
 - 🎯 Looking for: Trainee / Junior positions and internships in security or software engineering
 - 📫 [LinkedIn](https://www.linkedin.com/in/tymofii-rashchenko-b9b8b441b) · rashchatima@gmail.com
-- 🌍 Languages: Ukrainian, English, Russian
+- 🌍 Languages: Ukrainian, English, Russian, German
 
 ### Projects
 
